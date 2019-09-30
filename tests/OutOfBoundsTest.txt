@@ -1,0 +1,7 @@
+void void(){
+	char[] charTable;
+	charTable[0] = 'T';
+	charTable[1] = 'Y';
+	charTable[7] = 100;
+	return;
+}

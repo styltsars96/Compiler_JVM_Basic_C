@@ -1,0 +1,7 @@
+void main(){
+	int INTEGER = 5;
+	float FLOAT =5.5;
+	
+	FLOAT = INTEGER;
+	INTEGER = FLOAT;
+}

@@ -1,0 +1,17 @@
+int x;
+
+char x (char x){
+
+	return 'o';
+}
+
+void main (){
+	x = 5;
+	char[ ] d;
+	x(d);
+	char[] ct = new char[7];
+	ct[0] = 'y';
+	print(ct[2]);
+	ct[6] = ct[5];
+	return;
+}

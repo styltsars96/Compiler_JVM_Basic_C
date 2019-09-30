@@ -1,0 +1,12 @@
+
+void main(){
+	char[] charTable;
+	charTable = new char[5];
+	charTable[0] = 'T';
+	charTable[1] = 'Y';
+	charTable[2] = 'P';
+	charTable[2] = charTable[2];
+    char x = charTable[2];
+    charTable[2] = x;
+	return;
+}
